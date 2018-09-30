@@ -1,3 +1,2 @@
-def instaniate_new_array	
+end	def instaniate_new_array	
 	Array.new	
-end	
